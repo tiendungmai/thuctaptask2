@@ -20,7 +20,9 @@ import org.jsoup.nodes.Document;
  *
  * @author tiendungmai
  */
-/* Chinh sua tren server may client*/
+<<<<<<< HEAD
+/* Chinh sua tren hop nhat */
+
 public class Task {
     public static void main(String[] args) {
         try {
