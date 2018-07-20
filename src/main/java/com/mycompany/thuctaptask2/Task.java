@@ -20,7 +20,7 @@ import org.jsoup.nodes.Document;
  *
  * @author tiendungmai
  */
-<<<<<<< HEAD
+
 /* Chinh sua tren hop nhat */
 
 public class Task {
